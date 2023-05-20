@@ -1,5 +1,5 @@
 # OIBSIP
-
+# EMAIL SPAM DETECTION WITH MACHINE LEARNING
 ## Introduction
 We've all experienced receiving spam emails, which can be annoying, time-consuming, and potentially dangerous. This project aims to address this issue by building an email spam detector using Python. By leveraging machine learning techniques, we can train the spam detector to accurately classify emails as spam or non-spam.
 
