@@ -13,9 +13,9 @@ Allows for custom prediction inputs.
 ## Installation
 To run the email spam detector, please ensure you have the following dependencies installed:
 
-* **Python 3.x** \
-* **numpy** \
-* **pandas** \
+* **Python 3.x**
+* **numpy** 
+* **pandas** 
 * **scikit-learn**
 
 
