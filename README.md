@@ -18,7 +18,7 @@ To run the email spam detector, please ensure you have the following dependencie
 * **pandas** 
 * **scikit-learn**
 
-######################################################################################################
+###################################################################
 
 # TASK 2 - UNEMPLOYMENT ANALYSIS WITH PYTHON 
 ## Introduction
@@ -33,7 +33,7 @@ To run the notebooks and reproduce the analysis, ensure you have the following d
 * **Jupyter Notebook or JupyterLab**
 * **Required Python libraries (NumPy, Pandas, Matplotlib, Seaborn,etc.)**
 
-######################################################################################################
+######################################################################
 
 # TASK -3 Iris Flower Classification
 This repository contains the code for training a machine learning model to classify Iris flowers based on their measurements. The Iris flower dataset consists of three species: Setosa, Versicolor, and Virginica, each having distinct measurement characteristics. The goal is to develop a model that can accurately classify Iris flowers based on their measurements.
