@@ -55,7 +55,7 @@ The code for training the classification models can be found in the iris_classif
 * **Support Vector Machine (SVM)**
 * **Logistic Regression**
 * **Decision Tree Classifier**
-Each model is trained using the Iris flower dataset and evaluated for its accuracy.
+* **Each model is trained using the Iris flower dataset and evaluated for its accuracy**
 
 ## Testing
 After training the models, a new test dataset is used to assess their performance. The test dataset contains measurements of Iris flowers with unknown species. The trained models predict the species of these flowers, and their accuracy is evaluated.
